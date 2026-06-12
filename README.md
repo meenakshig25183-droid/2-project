@@ -29,7 +29,8 @@ A smart, AI-powered assistant designed to provide expert constructive feedback a
 Follow these steps to run the project locally:
 
 ### 1. Clone the Repository
-`git clone [https://github.com//2-project.vijaylakshmi K B](https://github.com/vijaylakshmi K B/2-project.git)
+```blash
+git clone [https://github.com//2-project.vijaylakshmi K B](https://github.com/vijaylakshmi K B/2-project.git)
 cd 2-project
 git clone [https://github.com//2-project.vijaylakshmi K B](https://github.com/vijaylakshmi K B/2-project.git) cd 2-project
 
